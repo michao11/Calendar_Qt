@@ -1,0 +1,22 @@
+# ninja log v6
+156	221	7519170249797777	C:/Users/Pc/Desktop/Zadanie Kalendarz/kalendarz-zadanie/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/kalendarz-zadanie_autogen/EWIEGA46WW/qrc_res.cpp	958eae999801f546
+22	155	7519170247887353	kalendarz-zadanie_autogen/timestamp	f915ff7ae051a7f9
+2323	2543	7519170270899908	kalendarz-zadanie.exe	74d6fd5068d9d81f
+22	155	7519170247887353	kalendarz-zadanie_autogen/mocs_compilation.cpp	f915ff7ae051a7f9
+22	155	7519170247887353	C:/Users/Pc/Desktop/Zadanie Kalendarz/kalendarz-zadanie/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/kalendarz-zadanie_autogen/timestamp	f915ff7ae051a7f9
+582	2567	7519168337263242	CMakeFiles/kalendarz-zadanie.dir/kalendarz-zadanie_autogen/mocs_compilation.cpp.obj	6d1ad825f1138032
+22	155	7519170247887353	C:/Users/Pc/Desktop/Zadanie Kalendarz/kalendarz-zadanie/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/kalendarz-zadanie_autogen/mocs_compilation.cpp	f915ff7ae051a7f9
+588	2512	7519168337333059	CMakeFiles/kalendarz-zadanie.dir/main.cpp.obj	234a6df177e35109
+221	2323	7519170249877563	CMakeFiles/kalendarz-zadanie.dir/mainwindow.cpp.obj	7c33a86bbe74a658
+156	221	7519170249797777	kalendarz-zadanie_autogen/EWIEGA46WW/qrc_res.cpp	958eae999801f546
+229	492	7519170249967336	CMakeFiles/kalendarz-zadanie.dir/kalendarz-zadanie_autogen/EWIEGA46WW/qrc_res.cpp.obj	7f7ce7962539b5d9
+12	612	7519172913768486	build.ninja	29f05adb96be8355
+21	145	7519172914626192	kalendarz-zadanie_autogen/timestamp	f915ff7ae051a7f9
+21	145	7519172914626192	kalendarz-zadanie_autogen/mocs_compilation.cpp	f915ff7ae051a7f9
+21	145	7519172914626192	C:/Users/Pc/Desktop/Zadanie Kalendarz/kalendarz-zadanie/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/kalendarz-zadanie_autogen/timestamp	f915ff7ae051a7f9
+21	145	7519172914626192	C:/Users/Pc/Desktop/Zadanie Kalendarz/kalendarz-zadanie/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/kalendarz-zadanie_autogen/mocs_compilation.cpp	f915ff7ae051a7f9
+146	211	7519172916466749	kalendarz-zadanie_autogen/EWIEGA46WW/qrc_res.cpp	958eae999801f546
+146	211	7519172916466749	C:/Users/Pc/Desktop/Zadanie Kalendarz/kalendarz-zadanie/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/kalendarz-zadanie_autogen/EWIEGA46WW/qrc_res.cpp	958eae999801f546
+218	443	7519172916586433	CMakeFiles/kalendarz-zadanie.dir/kalendarz-zadanie_autogen/EWIEGA46WW/qrc_res.cpp.obj	7f7ce7962539b5d9
+211	2718	7519172916516621	CMakeFiles/kalendarz-zadanie.dir/mainwindow.cpp.obj	7c33a86bbe74a658
+2718	3224	7519172941592977	kalendarz-zadanie.exe	74d6fd5068d9d81f
